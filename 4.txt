@@ -1,0 +1,16 @@
+/*  Write a java script program to access the properties of given object.  */
+var person = {
+firstname : "John",
+lastname : "Doe",
+age : 21,
+eyecolor : "brown"
+}
+
+person.firstname
+"John"
+person.lastname
+"Doe"
+person.age
+21
+person.eyecolor
+"brown"

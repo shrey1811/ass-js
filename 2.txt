@@ -1,0 +1,33 @@
+/*Write a function to get the reminder.*/
+
+var a=5;
+
+var b=2;
+
+a
+5
+
+b
+2
+
+function myFunc(){
+return a%b;
+}
+
+myFunc()
+1
+
+
+/*Write a function to get the quotient.*/
+
+var a=5;
+
+var b=2;
+
+var remainder=a%b;
+
+function myFunc(){
+return (a-remainder)/b;}
+
+myFunc()
+2

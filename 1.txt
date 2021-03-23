@@ -1,0 +1,26 @@
+/*Write a single java script function to calculate addition, subtraction, multiplication, division and modules */
+
+var a=1,b=2;
+
+a
+1
+
+b
+2
+
+var add, sub, mul,div,module;
+
+add=a+b;
+3
+
+sub=a-b;
+-1
+
+mul=a*b;
+2
+
+div=a/b;
+0.5
+
+module=a%b;
+1

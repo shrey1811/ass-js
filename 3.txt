@@ -1,0 +1,11 @@
+/*Write a function to add all the the number which present in a array. */
+const x = [1,2,3,4,5];
+
+
+function myFunc(){
+return x[0]+x[1]+x[2]+x[3]+x[4];
+}
+
+
+myFunc()
+15
